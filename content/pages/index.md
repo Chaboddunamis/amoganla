@@ -88,7 +88,7 @@ sections:
             has_icon: true
             icon: arrow-right
             icon_position: right
-        image: /images/images2.jpg
+        image: /images/LL-e1569334387318.jpg
         image_alt: Feature 2 illustration
         media_position: right
         media_width: sixty
