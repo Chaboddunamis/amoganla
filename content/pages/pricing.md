@@ -40,18 +40,7 @@ sections:
       - title: Premium
         subtitle: Optional subtitle
         title_align: left
-        content: |-
-          ---
-
-          ### $19
-
-          per month, billed yearly
-
-          * Et semper leo mattis orci conubia congue
-          * Quisque eleifend imperdiet tortor
-          * Elementum eu rhoncus, volutpat
-          * Fringilla diam magnis libero lacinia
-          * Litora primis facilisis ullamcorper per
+        content: "\n![](/images/pleasant-saturn.jpg)\n\nVCMS enables student-athletes to get matched with\_ academic institutions in the United States to play sports and receive world class education. It serves as a simple platform that connects student-athletes to college athletic coaches looking for talents.\n\n"
         content_align: left
         actions:
           - label: Start with Premium
