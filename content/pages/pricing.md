@@ -56,13 +56,10 @@ sections:
           creating value for society in several ways.
         title_align: left
         content: >
-          ***
-
-
-          Vertique Concepts is a team motivated and mobilized to create
-          inspiring stories in the African eco-system. We create and export
-          value to solve local challenges, improve talent and create sustainable
-          living environments.
+          ![](/images/curious-petunia.jpg)Vertique Concepts is a team motivated
+          and mobilized to create inspiring stories in the African eco-system.
+          We create and export value to solve local challenges, improve talent
+          and create sustainable living environments.
         content_align: left
         actions:
           - label: Start with Business
