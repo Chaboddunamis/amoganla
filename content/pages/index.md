@@ -94,10 +94,10 @@ sections:
         media_width: sixty
       - title: Business and Finance
         subtitle: I create financial value by solving local business needs.
-        content: >-
-          I will dive into the ins and outs of your product or service and make
-          sure the right information is communicated throughout your
-          documentation, pamphlets, manuals and technical documents.
+        content: >
+          I believe in wealth acquisition through value creation. I also believe
+          solving local problems from an egalitarian perspective can boost both
+          local and individual economies even as a social entrepreneur.
         actions:
           - label: See Past Work
             url: /faq
