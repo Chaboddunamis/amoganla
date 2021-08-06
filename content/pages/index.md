@@ -21,7 +21,9 @@ sections:
     background_image_repeat: repeat
     background_image_size: contain
     background_image_opacity: 8
-    title: 'I am a serial entrepreneur committed to creating global citizens, '
+    title: >-
+      I am a serial entrepreneur committed to creating global citizens,
+      providing sustainable opportunities for young
   - type: grid_section
     title: Trusted by Companies Big and Small
     subtitle: Who I work with
