@@ -83,7 +83,7 @@ sections:
           benefits.
         actions:
           - label: Learn More
-            url: /about
+            url: /pricing
             style: primary
             has_icon: true
             icon: arrow-right
