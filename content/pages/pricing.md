@@ -51,7 +51,9 @@ sections:
         actions_align: left
         actions_width: full-width
       - title: Business
-        subtitle: A company overseeing the implementation of my different ideas
+        subtitle: >-
+          A company overseeing the implementation of my different ideas and
+          creating value for society in several ways.
         title_align: left
         content: >+
           ***
