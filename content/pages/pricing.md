@@ -2,7 +2,7 @@
 title: Pricing
 sections:
   - type: hero_section
-    subtitle: Optional hero section subtitle
+    subtitle: i have st
     align: center
     padding_top: large
     padding_bottom: small
