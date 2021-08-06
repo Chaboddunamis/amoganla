@@ -2,7 +2,7 @@
 title: Pricing
 sections:
   - type: hero_section
-    subtitle: i have st
+    subtitle: I am a passionat
     align: center
     padding_top: large
     padding_bottom: small
