@@ -61,7 +61,7 @@ sections:
           creating and sustaining similar projects for others, especially young
           African sports talents.
         actions:
-          - label: See Writing Samples
+          - label: Learn More
             url: /faq
             style: primary
             has_icon: true
