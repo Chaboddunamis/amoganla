@@ -2,7 +2,7 @@
 title: Projects
 sections:
   - type: hero_section
-    title: Frequently Asked Questions
+    title: Projects
     subtitle: My answers
     align: center
     padding_top: medium
