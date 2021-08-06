@@ -76,10 +76,11 @@ sections:
           I create programmes that improve comunities and how people
           participate. I create opportunities and networks that link one
           community to the other.
-        content: >-
-          Managing an online business is a full-time job. I will make sure your
-          products look great, sound great, and sell more on your choice of
-          ecommerce platform.
+        content: >
+          The college-matching platform connects one community(young talents) to
+          another(colleges seeking sports talents to develop). The bridge is a
+          necessary step in the creation of talent pipelines with mutual
+          benefits.
         actions:
           - label: Learn More
             url: /about
