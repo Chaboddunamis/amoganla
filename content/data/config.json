@@ -137,5 +137,6 @@
         "anncmnt_has_close": true,
         "anncmnt_id": "new-features"
     },
-    "domain": "https://friendly-rabbit-ac883.netlify.app"
+    "domain": "https://friendly-rabbit-ac883.netlify.app",
+    "favicon": "/images/magnificent-spider.png"
 }
