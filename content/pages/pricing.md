@@ -42,7 +42,7 @@ sections:
           A web platform that matches students to relevant colleges and provides
           a pool of talents for the colleges.
         title_align: left
-        content: "\n![](/images/pleasant-saturn.jpg)\n\nVCMS enables student-athletes to get matched with\_ academic institutions in the United States to play sports and receive world class education. It serves as a simple platform that connects student-athletes to college athletic coaches looking for talents.\n\n"
+        content: "\n\n![](/images/images1.jpg)\n\n![](/images/best-giraffe.jpg)\n\nVCMS enables student-athletes to get matched with\_ academic institutions in the United States to play sports and receive world class education. It serves as a simple platform that connects student-athletes to college athletic coaches looking for talents.\n"
         content_align: left
         actions:
           - label: Find Out More
