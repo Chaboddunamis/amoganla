@@ -43,7 +43,7 @@ sections:
         content: "\n![](/images/pleasant-saturn.jpg)\n\nVCMS enables student-athletes to get matched with\_ academic institutions in the United States to play sports and receive world class education. It serves as a simple platform that connects student-athletes to college athletic coaches looking for talents.\n\n"
         content_align: left
         actions:
-          - label: Start with Premium
+          - label: Explore
             url: /features
             style: primary
         actions_align: left
