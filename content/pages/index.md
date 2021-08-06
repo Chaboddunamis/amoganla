@@ -51,7 +51,7 @@ sections:
     grid_gap_horiz: medium
     grid_gap_vert: medium
   - type: features_section
-    title: My services
+    title: My projects
     subtitle: What I do
     features:
       - title: Content Creation
