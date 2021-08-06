@@ -6,7 +6,7 @@ sections:
     align: center
     padding_top: large
     padding_bottom: small
-    title: Ideas I Have put into Motion
+    title: Ideas I Have Put into Motion
   - type: grid_section
     grid_items:
       - title: Personal
