@@ -2,9 +2,6 @@
 title: Home
 sections:
   - type: hero_section
-    subtitle: >-
-      providing sustainable opportunities for young talents, and making society
-      more habitable.
     actions:
       - label: Contact Me
         url: /contact
