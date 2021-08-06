@@ -5,7 +5,7 @@ sections:
     actions:
       - label: Contact Me
         url: /contact
-        style: primary
+        style: secondary
     image: /images/WhatsApp-Image-2020-09-01-at-12.08.40-PM.jpeg
     image_alt: A smiling woman
     media_position: right
