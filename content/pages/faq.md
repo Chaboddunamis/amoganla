@@ -3,7 +3,7 @@ title: Projects
 sections:
   - type: hero_section
     title: Projects
-    subtitle: My answers
+    subtitle: Here are some of the ideas I have put into motion.
     align: center
     padding_top: medium
     padding_bottom: small
