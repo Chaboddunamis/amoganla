@@ -4,43 +4,39 @@ seo:
   title: About
   description: This is the about page
   extra:
-    - name: og:type
+    - name: 'og:type'
       value: website
       keyName: property
-    - name: og:title
+    - name: 'og:title'
       value: About
       keyName: property
-    - name: og:description
+    - name: 'og:description'
       value: This is the about page
       keyName: property
-    - name: og:image
+    - name: 'og:image'
       value: images/about.jpg
       keyName: property
       relativeUrl: true
-    - name: twitter:card
+    - name: 'twitter:card'
       value: summary_large_image
-    - name: twitter:title
+    - name: 'twitter:title'
       value: About
-    - name: twitter:description
+    - name: 'twitter:description'
       value: This is the about page
-    - name: twitter:image
+    - name: 'twitter:image'
       value: images/about.jpg
       relativeUrl: true
 layout: page
 ---
-
-![A woman using a laptop](/images/about.jpg)
-
-The only thing I love more than writing is the process of meeting a new client and figuring out together what needs to be written. Working on a freelance consulting basis exposes me to many types of companies with varied goals and methodologies, and keeps me up to date with all marketing tools and platforms.
-
-## Credentials
-
-I have a BA in English Literature and an MBA in Marketing from the University of California. I am also a certified campaign manager in all the major PPC platforms, and a staff writer in several industry publications.
-
-My 20 years of experience have taught me to effectively identify the audience for which I write, and explain complex concepts in a friendly and non-intimidating way.
+![A woman using a laptop](/images/about.jpg)![](/images/image10.jpg)
 
 
 
-## Writing for Action
+I am Abdul Oganla and I am the proud founder and Program Director of Africa-USA College Soccer Recruitment Tour (AUS Access), a student-athlete recruitment program. In less than two years, the program has helped facilitate more than a massive $1,000,000 worth of scholarships for its scholars.
 
-I believe that each and every piece of writing should inspire an action that is connected to a tangible business goal. I will work with you to define our content KPIs, understand how to properly track and measure them, and hit our goals by creating effective messaging across all of your digital assets.
+Being one of four outstanding football talents from MTN Nigeria’s Football Scholar (2011) nationwide search who successfully  made it to a varsity in the U.S. on a full scholarship while playing for the college’s soccer team,  I  made it my lifework to provide young, talented athletes in Africa a platform to get similar opportunity that I enjoyed.
+
+I benefited massively from the full-ride scholarship and attended college in America. Prior to this, I was the inaugural president and captain of the prestigious Segun Odegbami International College & Sports Academy. 
+I graduated from Knox College with a Bachelors in Economics and a minor in Business Management.
+
+
