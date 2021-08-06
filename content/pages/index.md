@@ -99,7 +99,7 @@ sections:
           solving local problems from an egalitarian perspective can boost both
           local and individual economies even as a social entrepreneur.
         actions:
-          - label: See Past Work
+          - label: S
             url: /faq
             style: primary
             has_icon: true
