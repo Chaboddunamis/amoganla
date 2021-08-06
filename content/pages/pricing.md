@@ -9,7 +9,7 @@ sections:
     title: Ideas I Have Put Into Motion
   - type: grid_section
     grid_items:
-      - title: Personal
+      - title: Africa-USA Access
         subtitle: Optional subtitle
         title_align: left
         content: >+
