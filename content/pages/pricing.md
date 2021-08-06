@@ -4,7 +4,7 @@ sections:
   - type: hero_section
     subtitle: >-
       I am a passionate change agent and love building solutions tailored
-      specifically to local challeng
+      specifically to local challenges.
     align: center
     padding_top: large
     padding_bottom: small
