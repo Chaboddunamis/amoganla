@@ -55,7 +55,7 @@ sections:
     subtitle: What I do
     features:
       - title: Talent Development
-        subtitle: I create environments for the development of African talen
+        subtitle: I create environments for the development of African talents.
         content: >-
           I will handle content writing for your digital assets, from
           newsletters and emails, to Facebook and Google campaigns, whitepapers,
