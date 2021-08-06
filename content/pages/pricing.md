@@ -33,7 +33,7 @@ sections:
         content_align: left
         actions:
           - label: Start with Personal
-            url: /features
+            url: ausaccess.com
             style: primary
         actions_align: left
         actions_width: full-width
