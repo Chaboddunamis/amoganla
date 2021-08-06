@@ -54,7 +54,7 @@ sections:
     title: My projects
     subtitle: What I do
     features:
-      - title: Content Creation
+      - title: Talent Development
         subtitle: 'Website, blog, social media and more.'
         content: >-
           I will handle content writing for your digital assets, from
