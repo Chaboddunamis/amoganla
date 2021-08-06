@@ -1,5 +1,5 @@
 ---
-title: Pricing
+title: Projects
 sections:
   - type: hero_section
     subtitle: >-
