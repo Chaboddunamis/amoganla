@@ -53,18 +53,21 @@ sections:
       - title: Business
         subtitle: Optional subtitle
         title_align: left
-        content: |-
-          ---
+        content: >+
+          ***
 
-          ### $39
 
-          per month, billed yearly
+          ***
 
-          * Et semper leo mattis orci conubia congue
-          * Quisque eleifend imperdiet tortor
-          * Elementum eu rhoncus, volutpat
-          * Nisi cubilia interdum ultricies
-          * Feugiat porta tortor
+
+          ***
+
+
+          Vertique Concepts is a team motivated and mobilized to create
+          inspiring stories in the African eco-system. We create and export
+          value to solve local challenges, improve talent and create sustainable
+          living environments.
+
         content_align: left
         actions:
           - label: Start with Business
