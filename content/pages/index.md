@@ -22,8 +22,8 @@ sections:
       I am a serial entrepreneur committed to creating global citizens and
       solving problems.
     subtitle: >-
-      I providing sustainable opportunities for young talents, and making
-      society more habitable.
+      I work to providing sustainable opportunities for young talents, and
+      making society more habitable.
   - type: grid_section
     title: Trusted by Companies Big and Small
     subtitle: Who I work with
