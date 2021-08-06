@@ -25,7 +25,7 @@ sections:
       I work to provide sustainable opportunities for young talents, and make
       society more habitable.
   - type: grid_section
-    title: I have worked with a variet
+    title: I have worked with a variety of local and interna
     subtitle: Who I work with
     align: center
     grid_items:
