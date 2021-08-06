@@ -59,12 +59,6 @@ sections:
           ***
 
 
-          ***
-
-
-          ***
-
-
           Vertique Concepts is a team motivated and mobilized to create
           inspiring stories in the African eco-system. We create and export
           value to solve local challenges, improve talent and create sustainable
