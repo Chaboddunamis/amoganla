@@ -34,7 +34,7 @@ sections:
         actions:
           - label: Start with Personal
             url: ausaccess.com
-            style: secondary
+            style: primary
         actions_align: left
         actions_width: full-width
       - title: Premium
