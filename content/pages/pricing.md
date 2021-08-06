@@ -50,7 +50,7 @@ sections:
             style: primary
         actions_align: left
         actions_width: full-width
-      - title: Business
+      - title: Vertique Concepts
         subtitle: >-
           A company overseeing the implementation of my different ideas and
           creating value for society in several ways.
