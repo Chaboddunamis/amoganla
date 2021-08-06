@@ -56,10 +56,10 @@ sections:
     features:
       - title: Talent Development
         subtitle: I create environments for the development of African talents.
-        content: >-
-          I will handle content writing for your digital assets, from
-          newsletters and emails, to Facebook and Google campaigns, whitepapers,
-          case studies and product descriptions. No job is too big or small!
+        content: >
+          As a beneficiary of talent development programmes, I am committed to
+          creating and sustaining similar projects for others, especially young
+          African sports talents.
         actions:
           - label: See Writing Samples
             url: /faq
