@@ -32,7 +32,7 @@ sections:
 
         content_align: left
         actions:
-          - label: Start with Personal
+          - label: Find Out More
             url: ausaccess.com
             style: primary
         actions_align: left
