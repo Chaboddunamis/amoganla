@@ -2,7 +2,7 @@
 title: Pricing
 sections:
   - type: hero_section
-    subtitle: I am a passionat
+    subtitle: 'I am a passionate change agent and love '
     align: center
     padding_top: large
     padding_bottom: small
