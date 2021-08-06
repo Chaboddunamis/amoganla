@@ -114,12 +114,12 @@ sections:
     align: center
     background_color: none
   - type: form_section
-    content: >-
+    content: >
       ## Let's talk
 
 
-      If you would like more information about my services and pricing, please
-      contact me using the form below.
+      If you would like more information about me and what I do, please contact
+      me using the form below.
     content_align: left
     form_position: right
     form_width: fifty
