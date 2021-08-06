@@ -73,7 +73,7 @@ sections:
         media_width: sixty
       - title: Community Engagement
         subtitle: >-
-          I create programmes that improve coeatmunities and how people
+          I create programmes that improve comunities and how people
           participate. I cr
         content: >-
           Managing an online business is a full-time job. I will make sure your
