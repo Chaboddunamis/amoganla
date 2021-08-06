@@ -65,7 +65,7 @@ sections:
           living environments.
         content_align: left
         actions:
-          - label: vclafrica.com
+          - label: Find Out More
             url: /features
             style: primary
         actions_align: left
