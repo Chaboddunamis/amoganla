@@ -2,7 +2,9 @@
 title: Pricing
 sections:
   - type: hero_section
-    subtitle: 'I am a passionate change agent and love building '
+    subtitle: >-
+      I am a passionate change agent and love building solutions tailored
+      specifically to 
     align: center
     padding_top: large
     padding_bottom: small
