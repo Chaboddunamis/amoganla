@@ -109,8 +109,7 @@ sections:
         image_alt: Feature 3 illustration
         media_position: right
         media_width: sixty
-        video_embed_html: >-
-          https://www.google.com/url?esrc=s&q=&rct=j&sa=U&url=https://www.youtube.com/watch%3Fv%3DQrIpsmBK9iw&ved=2ahUKEwidqZHm75zyAhVDolwKHYDxAnEQqoUBMAR6BAgQEAE&usg=AOvVaw3R1vi2vbmTi1txsObgWC72
+        video_embed_html: 'https://www.youtube.com/watch?v=QrIpsmBK9iw'
     feature_padding_vert: large
     align: center
     background_color: none
