@@ -24,7 +24,7 @@
             },
             {
                 "label": "My projects",
-                "url": "#",
+                "url": "my-projects",
                 "style": "link",
                 "has_icon": false,
                 "icon": "arrow-left",
