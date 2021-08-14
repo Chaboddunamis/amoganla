@@ -94,7 +94,7 @@ sections:
 
         actions:
           - label: Learn More
-            url: '#'
+            url: betafoodsng.com
             style: link
             has_icon: false
             icon: arrow-left
