@@ -129,7 +129,7 @@ seo:
     - name: 'twitter:card'
       value: summary_large_image
     - name: 'twitter:title'
-      value: My Projects|Abdul Oganla
+      value: My Projects | Abdul Oganla
     - name: 'twitter:description'
       value: This is the projects page
     - name: 'twitter:image'
