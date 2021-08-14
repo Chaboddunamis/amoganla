@@ -20,7 +20,7 @@ seo:
     - name: 'twitter:card'
       value: summary_large_image
     - name: 'twitter:title'
-      value: About|Abdul Oganla
+      value: About | Abdul Oganla
     - name: 'twitter:description'
       value: This is the about page
     - name: 'twitter:image'
