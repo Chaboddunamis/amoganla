@@ -48,7 +48,7 @@ sections:
     background_image_size: contain
     background_image_opacity: 8
 seo:
-  title: Contact|Abdul Oganla
+  title: Contact | Abdul Oganla
   description: This is the contact page
   extra:
     - name: 'og:type'
