@@ -110,7 +110,7 @@ sections:
     has_border: false
     background_color: secondary
 seo:
-  title: My Projects|Abdul Oganla
+  title: My Projects | Abdul Oganla
   description: This is the projects page
   extra:
     - name: 'og:type'
