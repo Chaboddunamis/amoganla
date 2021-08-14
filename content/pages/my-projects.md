@@ -99,8 +99,7 @@ sections:
           amet massa vitae tortor condimentum lacinia. Tortor at auctor urna
           nunc id cursus metus aliquam eleifend. Sed nisi lacus sed viverra
           tellus. Non enim praesent elementum facilisis.
-      - title: Cras tincidunt lobortis feugiat vivamus at augue eget arcu?
-        content: >-
+      - content: >-
           Blandit aliquam etiam erat velit. In massa tempor nec feugiat.
           Volutpat maecenas volutpat blandit aliquam. Sem integer vitae justo
           eget magna fermentum iaculis. Amet est placerat in egestas erat
