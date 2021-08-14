@@ -62,7 +62,7 @@ sections:
           African sports talents.
         actions:
           - label: Learn More
-            url: /pricing
+            url: /my-projects
             style: primary
             has_icon: true
             icon: arrow-right
