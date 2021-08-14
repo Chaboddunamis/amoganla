@@ -131,7 +131,7 @@ seo:
     - name: 'twitter:title'
       value: My Projects
     - name: 'twitter:description'
-      value: This is the pricing page
+      value: This is the projects page
     - name: 'twitter:image'
       value: images/about-3.jpg
       relativeUrl: true
