@@ -117,7 +117,7 @@ seo:
       value: website
       keyName: property
     - name: 'og:title'
-      value: My Projects
+      value: My Projects|Abdul Oganla
       keyName: property
     - name: 'og:description'
       value: This is the projects page
@@ -129,7 +129,7 @@ seo:
     - name: 'twitter:card'
       value: summary_large_image
     - name: 'twitter:title'
-      value: My Projects
+      value: My Projects|Abdul Oganla
     - name: 'twitter:description'
       value: This is the projects page
     - name: 'twitter:image'
