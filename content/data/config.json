@@ -47,7 +47,7 @@
             },
             {
                 "label": "My Projects",
-                "url": "/pricing",
+                "url": "/my-projects",
                 "style": "link"
             },
             {
