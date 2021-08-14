@@ -19,7 +19,7 @@
             },
             {
                 "label": "My Projects",
-                "url": "/my-project",
+                "url": "/my-projects",
                 "style": "link"
             },
             {
