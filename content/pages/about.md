@@ -1,14 +1,14 @@
 ---
-title: About| Abdul Oganla
+title: About|Abdul Oganla
 seo:
-  title: Abdul Oganla
+  title: About|Abdul Oganla
   description: This is the about page
   extra:
     - name: 'og:type'
       value: website
       keyName: property
     - name: 'og:title'
-      value: About
+      value: About|Abdul Oganla
       keyName: property
     - name: 'og:description'
       value: This is the about page
@@ -20,7 +20,7 @@ seo:
     - name: 'twitter:card'
       value: summary_large_image
     - name: 'twitter:title'
-      value: About
+      value: About|Abdul Oganla
     - name: 'twitter:description'
       value: This is the about page
     - name: 'twitter:image'
