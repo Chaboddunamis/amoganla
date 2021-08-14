@@ -1,7 +1,7 @@
 ---
 title: Abdul Oganla
 seo:
-  title: About
+  title: Abdul Oganla
   description: This is the about page
   extra:
     - name: 'og:type'
