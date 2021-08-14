@@ -117,7 +117,7 @@ seo:
       value: website
       keyName: property
     - name: 'og:title'
-      value: My Projects | Abdul Oganla
+      value: My Projects  | Abdul Oganla
       keyName: property
     - name: 'og:description'
       value: This is the projects page
