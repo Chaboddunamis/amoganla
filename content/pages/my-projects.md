@@ -84,14 +84,13 @@ sections:
     title: 'Future Plans: Ideas in development'
     grid_items:
       - title: Betafoods
-        content: >+
-          **Betafoods is an agribusiness that deals with the production of 
+        content: >
+          Betafoods is an agribusiness that deals with the production of
 
           basic agricultural products, with the sole purpose of leveraging on
-          the 
+          the
 
-          vast opportunity for sustainable growth in Nigeria.**
-
+          vast opportunity for sustainable growth in Nigeria.
         actions:
           - label: Learn More
             url: betafoodsng.com
