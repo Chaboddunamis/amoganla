@@ -1,5 +1,5 @@
 ---
-title: Contact|Abdul Oganla
+title: Contact
 sections:
   - type: hero_section
     title: Contact Me
