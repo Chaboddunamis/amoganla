@@ -111,7 +111,7 @@ sections:
     background_color: secondary
 seo:
   title: My Projects
-  description: This is the pricing page
+  description: This is the projects page
   extra:
     - name: 'og:type'
       value: website
