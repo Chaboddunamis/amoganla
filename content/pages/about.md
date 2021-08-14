@@ -8,7 +8,7 @@ seo:
       value: website
       keyName: property
     - name: 'og:title'
-      value: About |Abdul Oganla
+      value: About | Abdul Oganla
       keyName: property
     - name: 'og:description'
       value: This is the about page
