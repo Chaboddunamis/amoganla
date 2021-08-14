@@ -1,5 +1,5 @@
 ---
-title: About
+title: About| Abdul Oganla
 seo:
   title: Abdul Oganla
   description: This is the about page
