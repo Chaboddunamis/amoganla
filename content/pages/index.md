@@ -73,7 +73,7 @@ sections:
         media_width: sixty
       - title: Community Engagement
         subtitle: >-
-          I create programmes that improve comunities and how people
+          I create programmes that improve communities and how people
           participate. I create opportunities and networks that link one
           community to the other.
         content: >
