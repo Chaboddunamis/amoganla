@@ -93,7 +93,7 @@ sections:
           vast opportunity for sustainable growth in Nigeria.**
 
         actions:
-          - label: lorem-ipsum
+          - label: Learn More
             url: '#'
             style: link
             has_icon: false
