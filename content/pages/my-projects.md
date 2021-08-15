@@ -68,7 +68,7 @@ sections:
         content_align: left
         actions:
           - label: Find Out More
-            url: htvclafrica.com
+            url: 'https://vclafrica.com'
             style: primary
         actions_align: left
         actions_width: full-width
