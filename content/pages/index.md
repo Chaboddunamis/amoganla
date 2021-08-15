@@ -158,7 +158,7 @@ sections:
     background_image_opacity: 8
 seo:
   title: Abdul Oganla
-  description: The preview of the Personal theme
+  description: Abdul Oganla's personal page
   extra:
     - name: 'og:type'
       value: website
