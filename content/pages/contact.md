@@ -64,7 +64,7 @@ seo:
       value: summary
     - name: 'twitter:title'
       value: Contact
-    - name: 'Contact | Abdul Oganla'
+    - name: 'twitter:description'
       value: This is the contact page
 layout: advanced
 ---
