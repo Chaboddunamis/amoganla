@@ -178,7 +178,7 @@ seo:
     - name: 'twitter:title'
       value: Abdul Oganla
     - name: 'twitter:description'
-      value: The preview of the Personal theme
+      value: Abdul Oganla's personal page
     - name: 'twitter:image'
       value: images/WhatsApp-Image-2020-09-01-at-12.08.40-PM.jpeg
       relativeUrl: true
