@@ -167,7 +167,7 @@ seo:
       value: Abdul  Oganla
       keyName: property
     - name: 'og:description'
-      value: The preview of the Personal theme
+      value: Abdul Oganla's personal page
       keyName: property
     - name: 'og:image'
       value: images/WhatsApp-Image-2020-09-01-at-12.08.40-PM.jpeg
