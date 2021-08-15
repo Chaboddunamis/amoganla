@@ -48,7 +48,7 @@ sections:
         content_align: left
         actions:
           - label: Find Out More
-            url: vcms.online
+            url: 'https://vcms.online'
             style: primary
         actions_align: left
         actions_width: full-width
