@@ -92,7 +92,7 @@ sections:
           vast opportunity for sustainable growth in Nigeria.
         actions:
           - label: Learn More
-            url: betafoodsng.com
+            url: 'https://betafoodsng.com'
             style: primary
             has_icon: false
             icon: arrow-left
