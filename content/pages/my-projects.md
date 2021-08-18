@@ -74,17 +74,10 @@ sections:
       - title: Subway Restaurant Franchise
         subtitle: AO Global Franchise Development
         title_align: center
-        content: >-
-          ## Lorem ipsum
-
-
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-          - Lorem ipsum
-
-          - dolor sit amet
+        content: >
+          Through AO Global Franchise Development, I have been able to secure
+          Subway franchising, improving food accessibility and creating value
+          for both Subway and consumers.
         content_align: left
         actions: []
         actions_align: left
