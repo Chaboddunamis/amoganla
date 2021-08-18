@@ -19,8 +19,8 @@ sections:
     background_image_size: contain
     background_image_opacity: 8
     title: >-
-      I am a serial entrepreneur committed to creating global citizens and
-      solving problems.
+      I am a serial entrepreneur committed to creating global citizens through
+      sports and solving social and economic problems.
     subtitle: >-
       I work to provide sustainable opportunities for young talents, and make
       society more habitable.
