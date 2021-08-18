@@ -73,7 +73,7 @@ sections:
         actions_width: full-width
       - title: Subway Restaurant Franchise
         subtitle: AO Global Franchise Development
-        title_align: left
+        title_align: center
         content: >-
           ## Lorem ipsum
 
