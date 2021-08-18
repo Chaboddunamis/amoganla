@@ -72,7 +72,7 @@ sections:
         actions_align: left
         actions_width: full-width
       - title: Subway Restaurant Franchise
-        subtitle: lorem-ipsum
+        subtitle: AO Global Franchise Development
         title_align: left
         content: >-
           ## Lorem ipsum
