@@ -11,7 +11,7 @@ sections:
     title: Ideas I Have Put Into Motion
   - type: grid_section
     grid_items:
-      - title: AUSA Access
+      - title: AUSAccess
         title_align: left
         content: >+
           ***
