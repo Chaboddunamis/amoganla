@@ -95,6 +95,7 @@ sections:
         image_align: left
         image_has_padding: false
         type: grid_item
+        image: /images/PHOTO-2021-08-17-20-34-20(1).jpg
     grid_cols: three
     grid_gap_horiz: small
     grid_gap_vert: small
