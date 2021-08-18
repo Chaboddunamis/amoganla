@@ -26,7 +26,7 @@ sections:
       society more habitable.
   - type: grid_section
     title: I have worked with a variety of local and international organizations
-    subtitle: What
+    subtitle: What I have set up
     align: center
     grid_items:
       - image: /images/cropped-cropped-beta-fish-final-02-1-2.png
